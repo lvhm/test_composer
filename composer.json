@@ -1,0 +1,11 @@
+{
+    "name": "lvhm/test_composer",
+    "description": "My first Composer project",
+    "authors": [
+        {
+            "name": "lvhm",
+            "email": "lvphp@qq.com"
+        }
+    ],
+    "require": {}
+}

@@ -7,5 +7,6 @@
             "email": "lvphp@qq.com"
         }
     ],
+    "license": "MIT",
     "require": {}
 }

@@ -8,5 +8,10 @@
         }
     ],
     "license": "MIT",
+    "autoload": {
+        "psr-0": {
+            "test_composer\\": "src/"
+        }
+    },
     "require": {}
 }
